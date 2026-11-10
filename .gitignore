@@ -29,5 +29,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 ### Local IntelliJ settings ###
-.idea/workspace.xml
+.idea/
 
